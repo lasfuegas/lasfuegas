@@ -1,0 +1,61 @@
+html {
+    background-color: #FFFEF7;
+    font-smoothing: antialiased;
+}
+
+body {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    max-width: 800px;
+    font-family: "Myriad Pro", sans-serif;
+    font-size: 12px;
+    line-height: 1.5em;
+    color: #000000;
+    background-color: #FFFEF7;
+}
+
+p {
+    margin: 0 auto;
+    padding: 2em;
+    max-width: 800px;
+    font-family: "Myriad Pro", Courier, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 1.5em;
+    color: #000000;
+    background-color: #FFFEF7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    font-family: "Bevan", Courier, Arial, sans-serif;
+    font-weight: 200;
+    line-height: 1.3em;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    color: #000000;
+}
+
+<style type="text/css">  
+a.nounderline:link  
+{  
+ text-decoration:none;  
+}  
+</style>  
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+
+img {
+
+}
